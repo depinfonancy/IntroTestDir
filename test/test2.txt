@@ -1,0 +1,4 @@
+  le mot de score max pour [test] est : []
+  le mot de score max pour [aabjouet] est : [abajoue]
+  le mot de score max pour [abandonnataire] est : [abandonnataire]
+  le mot de score max pour [abandonnatair] est : [abandonnai]
